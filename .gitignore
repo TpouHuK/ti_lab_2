@@ -1,0 +1,7 @@
+/target
+*.enc
+*.mp4
+test_file
+decrypted
+encrypted
+largefile
